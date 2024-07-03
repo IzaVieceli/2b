@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Bona+Nova+SC:ital,wght@0,400;0,700;1,400&display=swap');
+
+.bona-nova-sc-regular {
+    font-family: "Bona Nova SC", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.bona-nova-sc-bold {
+    font-family: "Bona Nova SC", serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.bona-nova-sc-regular-italic {
+    font-family: "Bona Nova SC", serif;
+    font-weight: 400;
+    font-style: italic;
+}
+
+.titulo-centralizado{
+    font-family: "Bona Nova SC", serif;
+    font-weight: 700;
+    font-style: italic;
+    text-align: center;
+    
+}
+
+h3{
+    margin-left: 20px;
+    font-family: "Bona Nova SC", serif;
+    font-weight: 400;
+    font-style: italic;
+    
+}
+
+p {
+    font-family: "Bona Nova SC", serif;
+    font-weight: 400;
+    font-style: italic;
+}
+
+img {
+    width: 100px; /* Ajuste o valor conforme necessário */
+    margin-bottom: 2px; /* Margem específica para a parte inferior */
+    
+}
+.lateral{
+    width: 40%;
+    border: 2px solid blanchedalmond; /* Adiciona uma borda sólida de 2 pixels de largura com a cor blanchedalmond */
+    border-radius: 2%;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3); /* Adiciona uma sombra */
+}
+
+.lado {
+    display: flex; /* Define a div como um contêiner flexível */
+    align-items: flex-start; /* Alinha os itens ao início do contêiner */
+}
+
+.texto {
+    margin-right: 20px; /* Espaçamento entre o texto e a imagem */
+}
+
+body{
+    background-color: aqua;
+    margin: 0px 0px 0px 0px;
+}
+.cor-de-fundo1{
+    background-color: blueviolet;
+}
